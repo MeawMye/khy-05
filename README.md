@@ -114,10 +114,5 @@ CDC Driver / Flash Driver
 STM32 HAL
 ```
 
-## 📫 Contact
-
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 📝 Tech Blog: [블로그 이름](https://블로그주소)
-- 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/본인주소)
 
 초기화와 Application Logic을 분리하고, CDC 및 Flash 기능을 Hardware Layer에 구성하여 상위 계층에서 사용할 수 있도록 프로젝트 구조를 나누었습니다.
