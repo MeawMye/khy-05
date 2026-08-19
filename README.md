@@ -44,7 +44,7 @@ Embedded Systems, Firmware & Device Drivers, BSP, Linux Kernel, RTOS, Hardware�
 
 ## 💻 Personal Projects
 
-### 🖥️ STM32 PC Monitor
+### 1.🖥️ STM32 PC Monitor
 
 **STM32F769I-DISCO와 FreeRTOS 기반 실시간 PC 시스템 모니터링**
 
@@ -72,7 +72,7 @@ PC에서 수집한 시스템 정보를 UART를 통해 STM32로 전송하고, 수
 
 ---
 
-### 💾 STM32 USB CDC & Internal Flash
+### 2.💾 STM32 USB CDC & Internal Flash
 
 **STM32F429ZI에서 USB CDC 통신 및 Internal Flash 제어 기능 구현**
 
